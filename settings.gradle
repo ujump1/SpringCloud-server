@@ -1,0 +1,5 @@
+rootProject.name = 'springcloud-server'
+include 'entity'
+include 'api'
+include 'service'
+
